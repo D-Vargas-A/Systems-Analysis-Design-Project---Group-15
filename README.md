@@ -2,7 +2,8 @@
 
 ## Team Members
 - *David Eduardo Muñoz Mariño* - 20232020281
-- *Daniel Vargas Arias* - 20232020103  
+- *Daniel Vargas Arias* - 20232020103
+- *Juan Esteban Moreno Durán* - 20232020097
 - *Julián Darío Romero Buitrago* - 20232020240
 
 *Course*: Systems Analysis & Design  
