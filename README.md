@@ -6,8 +6,8 @@
 - *Julián Darío Romero Buitrago* - 20232020240
 - *Juan Esteban Moreno Durán* - 20232020107
 
-*Course*: Systems Analysis & Design
-*Semester*: 2025-III
-*Professor*: Eng. Carlos Andrés Sierra, M.Sc.
-*Program*: Systems Engineering
+*Course*: Systems Analysis & Design  
+*Semester*: 2025-III  
+*Professor*: Eng. Carlos Andrés Sierra, M.Sc.  
+*Program*: Systems Engineering  
 *Institution*: Universidad Distrital Francisco José de Caldas
