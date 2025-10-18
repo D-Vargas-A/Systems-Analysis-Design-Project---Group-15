@@ -1,4 +1,4 @@
-# Workshop 1 - Systems Analysis of PAKDD Cup 2014 Competition
+Systems Analysis & Design
 
 ## Team Members
 - *David Eduardo Muñoz Mariño* - 20232020281
