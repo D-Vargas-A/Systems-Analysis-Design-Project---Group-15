@@ -9,5 +9,5 @@
 *Course*: Systems Analysis & Design  
 *Semester*: 2025-III  
 *Professor*: Eng. Carlos Andrés Sierra, M.Sc.  
-*Program*: Computer Engineering  
+*Program*: Systems Engineering  
 *Institution*: Universidad Distrital Francisco José de Caldas
